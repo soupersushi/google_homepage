@@ -44,13 +44,13 @@ li{
 form{
 	outline-color: #404040; 
 	display: block; 
-	margin-left: 31%;  
+	margin-left: 32%;  
 }
 
 /*Make input this smaller*/
 input{
-	width: 580px; 
-	height: 30px; 
+	width: 560px; 
+	height: 28px; 
 }
 
 
@@ -81,14 +81,14 @@ div img {
 .submit{
 	width: 100px;
 	margin-left: 41%; 
-	bottom: 80px;
+	bottom: -10px;
 }
 
 .lucky{
 	clear: left; 
 	width: 127px;
 	margin-left: 49%; 
-	bottom: 105px;
+	bottom: 15px;
 }
 
 .l_footer{
